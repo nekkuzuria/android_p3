@@ -85,7 +85,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="BOOKMARK"
+        android:text="@string/bookmark_btn"
         android:layout_alignParentBottom="true"
         android:drawableLeft="@drawable/bookmark_icon" />
 
