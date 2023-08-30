@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android_p3</string>
+    <string name="txt_title">My Phone</string>
+    <string name="phone_name">Samsung Galaxy S22 5G</string>
+    <string name="phone_price">$599.9</string>
+    <string name="phone_desc">The Samsung Galaxy S22 specs are top-notch including a Snapdragon 8 Gen 1 chipset, 8GB RAM coupled with 128/256GB storage, and a 3700mAh battery with 25W charging speed. The phone sports a 6.1-inch Dynamic AMOLED display with an adaptive 120Hz refresh rate. In the camera department there is a Triple-sensor setup is present.</string>
+
+</resources>
